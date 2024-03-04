@@ -1,0 +1,25 @@
+ 1) Maria e João, vão se casar, e perceberam, que, o total das despezas para o 
+ casamento será de 20000. Ambos receberam ajuda de algumas pessoas:
+ A - O Pai de Maria;
+ B - A Mãe do João;
+ C - Uma vaquinha online;
+
+ Agora Maria e João, precisam saber quanto ainda falta ou se por acaso,
+ já alcançaram o valor total.
+ Escreva um código que, Maria e João vão inserir via prompt, os três valores que eles
+ ganharam, e ao final, via alert, imprimir quanto falta, porém, se o valor foi alcançado,
+ imprimir uma mensagem de sucesso.
+
+
+
+2) Imagine que você está desenvolvendo um aplicativo que serve
+ para dividir a conta, entre as pessoas que estão em um restaurante.
+ As entradas (prompt) serão:
+ A - O valor total da conta da mesa;
+ B - A quantidade de pessoas da mesa;
+
+ O resultado, deverá ser quanto cada pessoa irá pagar (alert)
+
+
+
+

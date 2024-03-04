@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Exemplo</title>
+    </head>
+    <body>
+        
+        <div id="imprimaAqui">
+            
+        </div>
+
+        <script>
+
+            var idade = prompt("Qual a sua idade?");
+
+            var elemento = document.getElementById("imprimaAqui");
+
+            if(idade>=18){
+                elemento.innerHTML = "Bem grandinho";
+            }else{
+                elemento.innerHTML = "Ainda um nenem";
+            }
+        </script>
+    </body>
+</html>
