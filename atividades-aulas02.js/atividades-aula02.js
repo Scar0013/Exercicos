@@ -10,7 +10,7 @@ var hinoNacional = {
     var tine2 = 10;
     var tine3 = 10;
     var tine4 = 10;
-    var tine5 = 10;
+    var tine5 = 10; 
 
     var tine6 = tine1 + tine2 + tine3 + tine4 + tine5; 
 
